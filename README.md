@@ -36,7 +36,7 @@ CravAura is your go-to destination for delicious meals delivered fresh and fast.
 ## 📸 Screenshots
 
 ### 🖼️ Homepage
-![Homepage Screenshot](./screenshots/homepage.png)
+![Homepage Screenshot](./screenshots/home.png)
 
 ### 🍔 Food Menu
 ![Food Menu Screenshot](./screenshots/menu.png)
