@@ -36,10 +36,12 @@ CravAura is your go-to destination for delicious meals delivered fresh and fast.
 ## 📸 Screenshots
 
 ### 🖼️ Homepage
-![Homepage Screenshot](./screenshots/home.png)
+![Homepage Screenshot](./screenshots/home-page.png)
+
 
 ### 🍔 Food Menu
 ![Food Menu Screenshot](./screenshots/menu.png)
+
 
 ### 🛠️ Admin Panel
 ![Cart Screenshot](./screenshots/admin-panel.png)
@@ -52,10 +54,6 @@ CravAura is your go-to destination for delicious meals delivered fresh and fast.
 
 ---
 
-## 📦 Installation
+## 👨‍💻 Made with ❤️ by
 
-```bash
-git clone https://github.com/Abhiii4518/CravAura.git
-cd CravAura
-npm install
-npm start
+# Abhijeet Mohite
