@@ -1,8 +1,8 @@
-# 🍽️ CravAura - Food Delivery Website
+<h1 align="center">🍽️ CravAura - Food Delivery Website</h1>
 
-CravAura is your go-to destination for delicious meals delivered fresh and fast. We bring the best local flavors right to your doorstep with just a few clicks.
-
-> **"Satisfy Your Cravings, Feel the Aura."** 🌟
+<h3 align="center">CravAura is your go-to destination for delicious meals delivered fresh and fast. We bring the best local flavors right to your doorstep with just a few clicks.
+</h3>
+<h3 align="center">"Satisfy Your Cravings, Feel the Aura."</h3>
 
 ---
 
